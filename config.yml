@@ -1,2 +1,4 @@
 params:
   ShowBreadCrumbs: true
+  cover:
+    linkFullImages: false
