@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://bodyfitguide.pages.dev/"
 languageCode: en-us
 title: Body Fit Guide
 theme: ["PaperMod"]
