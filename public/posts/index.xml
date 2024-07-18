@@ -6,15 +6,13 @@
     <description>Recent content in Posts on Body Fit Guide</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2024 12:07:55 +1200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 18 Jul 2024 12:07:55 +1200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title>경영학과 - CEO가 되고 싶다면 여기에 주목하세요!</title>
+      <link>http://localhost:1313/posts/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post/</guid>
+      <description>경영학과에 대한 소개, 주요 대학 및 학과 순위, 주요 교과목, 졸업 후 진로 및 취업 분야, 관련 자격증 및 스킬 등 경영학과에 대한 모든 것을 알아보세요.</description>
     </item>
   </channel>
 </rss>
