@@ -4,6 +4,7 @@ description: "경영학과에 대한 소개, 주요 대학 및 학과 순위, �
 keywords: ["경영학과", "경영학", "CEO", "마케팅", "재무", "인사관리", "운영관리", "전략경영", "대학 순위", "졸업 후 진로", "취업 분야", "자격증", "스킬"]
 datePublished: "2024-07-18"
 images: "/images/running-4782722_1280.jpg"
+ShowBreadCrumbs: true
 ---
 
 ## 전공 소개 및 학문 분야
