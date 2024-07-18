@@ -2,3 +2,4 @@ params:
   ShowBreadCrumbs: true
   cover:
     linkFullImages: false
+    hiddenInList : True
