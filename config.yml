@@ -1,5 +1,6 @@
 params:
+  defaultTheme: auto
   ShowBreadCrumbs: true
   cover:
     linkFullImages: false
-    hidden : True
+    hiddenInList: true
