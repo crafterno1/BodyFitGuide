@@ -9,6 +9,13 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>경영학과 - CEO가 되고 싶다면 여기에 주목하세요!</title>
+      <link>http://localhost:1313/posts/post-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-copy/</guid>
+      <description>경영학과에 대한 소개, 주요 대학 및 학과 순위, 주요 교과목, 졸업 후 진로 및 취업 분야, 관련 자격증 및 스킬 등 경영학과에 대한 모든 것을 알아보세요.</description>
+    </item>
+    <item>
+      <title>경영학과 - CEO가 되고 싶다면 여기에 주목하세요!</title>
       <link>http://localhost:1313/posts/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post/</guid>
